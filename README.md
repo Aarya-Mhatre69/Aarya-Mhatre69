@@ -1,6 +1,6 @@
 <h1 >Bonjour, I'm Aarya Mhatre 🚀</h1>
 
-### 🚀 AI Engineer in the Making | ML Enthusiast | Open-Source Contributor
+### 🚀 AI Engineer in the Making | ML Enthusiast | Computer Engineer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F79A36&center=true&width=800&lines=Exploring+the+World+of+AI+and+ML...;Building+AI+for+Good+%F0%9F%92%BB;Contributing+to+Open-Source!;Making+Machines+Smarter!)
 
