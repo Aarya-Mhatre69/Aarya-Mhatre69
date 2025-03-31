@@ -1,45 +1,57 @@
-<h1 align="center">Hi 👋, I'm Aarya Mhatre</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Open Source Contributor</h3>
+<h1 >Bonjour, I'm Aarya Mhatre 🚀</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="your-username" />
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aarya-mhatre-3b98a7289/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/aarya_mhatre69/?hl=en">
-    <img src="https://img.shields.io/badge/-Instagram-1DA1F2?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-### 🔧 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-</p>
+### 🚀 AI Engineer in the Making | ML Enthusiast | Open-Source Contributor
 
-### 🔥 Streak Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F79A36&center=true&width=800&lines=Exploring+the+World+of+AI+and+ML...;Building+AI+for+Good+%F0%9F%92%BB;Contributing+to+Open-Source!;Making+Machines+Smarter!)
 
-### 📊 Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
-</p>
-### 🔄 Recent GitHub Activity:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical" />
-</p>
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+---
+
+### 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=15&no-frame=true" alt="Trophies" />
+</div>
+
+---
+
+### 🔥 Featured AI Projects
+
+- 🧠 **[AI Chatbot](https://github.com/your-username/ai-chatbot)** – A conversational AI chatbot using OpenAI’s GPT-4.
+- 📸 **[Image Classifier](https://github.com/your-username/image-classifier)** – CNN-based image recognition model.
+- 📝 **[NLP Sentiment Analysis](https://github.com/your-username/nlp-sentiment-analysis)** – Analyzing sentiments in tweets with BERT.
+
+---
+
+### 🎯 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+
+---
+
+<div align="center">
+  <i>"AI is not just about automation, it's about augmentation." – Satya Nadella</i>
+</div>
 
 
 <!--
