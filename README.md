@@ -17,29 +17,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
----
-
-### 📊 GitHub Stats & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=15&no-frame=true" alt="Trophies" />
-</div>
 
 ---
 
-### 🔥 Featured AI Projects
-
-- 🧠 **[AI Chatbot](https://github.com/your-username/ai-chatbot)** – A conversational AI chatbot using OpenAI’s GPT-4.
-- 📸 **[Image Classifier](https://github.com/your-username/image-classifier)** – CNN-based image recognition model.
-- 📝 **[NLP Sentiment Analysis](https://github.com/your-username/nlp-sentiment-analysis)** – Analyzing sentiments in tweets with BERT.
-
----
 
 ### 🎯 Let's Connect!
 
