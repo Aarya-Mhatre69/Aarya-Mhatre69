@@ -1,4 +1,4 @@
-<h1 align="center">Helo 👋, I'm Aarya Mhatre</h1>
+<h1 align="center">Hello 👋, I'm Aarya Mhatre</h1>
 <h3 align="center">🚀 Passionate AI Engineer | 💻 Full-Stack Developer | 🧠 Machine Learning Explorer</h3>
 
 <p align="center">
