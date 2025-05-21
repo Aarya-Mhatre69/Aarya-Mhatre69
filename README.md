@@ -38,9 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=Aarya-Mhatre69&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aarya-Mhatre69&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
 
 ---
 
@@ -55,21 +52,13 @@
 
 ---
 
-## 🛠️ Featured Projects
 
-| 🚀 Project | 🔧 Stack | 🔍 Description |
-|-----------|----------|----------------|
-| **BookBees** | Flutter, Firebase, YOLOv5 | Book trading app with AI book scanner and community library |
-| **NeuroFlex** | React, Python, OpenAI API | Mental performance & focus tracker using real-time AI feedback |
-| **Travego** | Next.js, Google Maps API | AI-powered travel itinerary planner with visual mapping |
-
----
 
 ## ⚡ Fun Bits
 
 - 🏋️‍♂️ Gym + 🎧 Music fuels my code
 - 🛠 Favorite tools: VSCode + Postman + Git
-- 🧠 Currently building an AI therapy assistant
+- 🧠 Currently building AI Projects 
 - 🌍 Passionate about AI for **mental wellness & productivity**
 
 ---
