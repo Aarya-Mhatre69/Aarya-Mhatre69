@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,react,nextjs,nodejs,express&perline=11" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,sql,sqlite,tensorflow,pytorch,opencv,openai,docker,kubernetes&perline=10" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,tensorflow,pytorch,opencv,docker&perline=10" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma,canva&perline=7" />
 </p>
 
