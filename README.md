@@ -22,11 +22,8 @@
 ## 🧠 Tech Toolbox
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,react,nextjs,nodejs,express&perline=11" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,tensorflow,pytorch,opencv&perline=10" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma,canva&perline=7" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,tensorflow,pytorch,opencv,docker,git,github,linux,vscode,postman,figma,canva&perline=11" /></p>
+
 
 ---
 
