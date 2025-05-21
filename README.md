@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+Tech+with+Purpose+💡;Learning+Every+Day+📚;AI+is+what+I+do+⚡;Solving+Problems+with+Code+🔧;Building+for+Impact+🌍;Loading+ML+into+the+system" alt="Typing SVG" />
 </p>
----
+
 
 ## 🚀 About Me
 
