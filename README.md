@@ -22,7 +22,7 @@
 ## 🧠 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,git,github,linux,vscode,postman,tensorflow,pytorch,opencv&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,express,SQL,SQLite,mongodb,firebase,git,github,linux,vscode,postman,tensorflow,pytorch,opencv,canva,figma&perline=8" />
 </p>
 
 ---
