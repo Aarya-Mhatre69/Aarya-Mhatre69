@@ -1,41 +1,33 @@
 <h1 align="center">Hi there, I'm <span style="color:#1E90FF;">Aarya Mhatre</span> 👋</h1>
-<h3 align="center">🚀 AI Engineer • 💻 Full-Stack Developer • 🧠 ML Explorer • 🌍 Tech-for-Good Advocate</h3>
+<h3 align="center">🚀 AI Engineer • 💻 Full-Stack Developer • 🧠 ML Explorer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Crafting+Tech+with+Purpose+💡;Learning+Every+Day+📚;AI+is+what+I+do+⚡;Solving+Problems+with+Code+🔧;Building+for+Impact+🌍;Loading+ML+into+the+System..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Crafting+Tech+with+Purpose+💡;Learning+Every+Day+📚;AI+is+what+I+do+⚡;Solving+Problems+with+Code+🔧;Building+for+Impact+🌍;Beginner+with+a+Big+Vision!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 **AI Enthusiast & Full-Stack Developer** passionate about building **intelligent, scalable, and ethical tech solutions**.  
+🎓 **AI Enthusiast & Full-Stack Developer** passionate about building **intelligent, scalable, and ethical tech solutions.**  
 🧠 Currently exploring:
 - `LangChain + RAGs` 🤖
-- `Advanced ML & AI Chatbots` 🧬
+- `AI Chatbots & ML Models` 🧬
 - `React.js & Next.js` ⚛️
 
-💡 On a mission to create AI tools for **mental health, productivity**, and **impactful innovation**.
+💡 On a mission to build real-world tools for **mental wellness, productivity**, and impact.
 
 ---
 
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,tensorflow,pytorch,opencv,docker,git,github,linux,vscode,postman,figma,canva&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,tensorflow,pytorch,opencv,git,github,vscode,postman,figma&perline=10" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aarya-Mhatre69&theme=tokyonight&row=1&margin-w=10&no-bg=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🏅 GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aarya-Mhatre69&show_icons=true&theme=tokyonight&count_private=true" height="165" />
@@ -44,6 +36,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aarya-Mhatre69&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 🏆 Getting Started Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aarya-Mhatre69&theme=tokyonight&title=MultiLanguage,Commits&no-bg=true&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -69,10 +69,10 @@
 
 ## ⚡ Fun Bits
 
-- 🏋️‍♂️ Gym + 🎧 Music fuels my code
-- 🧰 Favorite tools: VSCode + Postman + Git
-- 🧠 Currently building cool AI Projects 
-- 🌍 Passionate about **AI for wellness & productivity**
+- 🏋️‍♂️ Gym + 🎧 Music fuels my code  
+- 🧠 Building AI tools as I learn  
+- 💪 Every commit is a step forward  
+- 🌍 Dreaming big with small steps in **AI for mental wellness**
 
 ---
 
