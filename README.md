@@ -99,26 +99,6 @@ Typing speed trainer with real-time WPM tracking, accuracy stats, and a UI clean
 <tr>
 <td width="50%" valign="top">
 
-**[✈️ travego](https://github.com/Aarya-Mhatre69/travego)**
-
-Travel discovery and planning app. Smart filtering, map integration, and the kind of UX you don't have to explain to someone.
-
-`Next.js` `Node.js` `MongoDB` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-**[✅ Task-Master](https://github.com/Aarya-Mhatre69/Task-Master)**
-
-Task and productivity manager with deadlines, priority queues, and clean state management. Built to use, not just to build.
-
-`React` `Express` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[🚗 Vehicle PlateDetect](https://github.com/Aarya-Mhatre69)**
 
 Real-time number plate and speed detection from live video streams. YOLOv5-based pipeline with **92%+ plate detection accuracy** after tuning.
@@ -128,11 +108,11 @@ Real-time number plate and speed detection from live video streams. YOLOv5-based
 </td>
 <td width="50%" valign="top">
 
-**[🌑 obsidian-bloom](https://github.com/Aarya-Mhatre69/obsidian-bloom)**
+**[🌑 obsidian-bloom](https://github.com/Aarya-Mhatre69/CapTrack)**
 
-UI exploration - dark aesthetic design system with components, motion, and intentional detail. Where I experiment with what interfaces could feel like.
+A comprehensive digital platform designed to streamline the project experience.
 
-`React` `Tailwind` `Framer Motion`
+`React` `MongoDB` `Express`
 
 </td>
 </tr>
@@ -146,55 +126,10 @@ UI exploration - dark aesthetic design system with components, motion, and inten
 
 <div align="center">
 
-<br/>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp&theme=dark"/>
-<br/><sub>Languages</sub>
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,react,nextjs,flutter,tailwind,html,css,nodejs,express,mongodb,mysql,firebase,supabase,tensorflow,pytorch,opencv,git,github,docker,linux,figma,blender,unity,vscode&theme=dark"/>
 
-<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark"/>
-<br/><sub>Frontend & Mobile</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark"/>
-<br/><sub>Backend & Data</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
-<br/><sub>AI / ML</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,blender,unity,vscode&theme=dark"/>
-<br/><sub>Tools</sub>
-
-<br/>
-
-</div>
-
----
-
-### Stats
-
-<div align="center">
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aarya-Mhatre69&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Mhatre69&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Mhatre69&theme=github-dark-blue&hide_border=true&stroke=0c1a2e&ring=4a7fc1&fire=4a7fc1&currStreakLabel=4a7fc1"/>
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarya-Mhatre69&bg_color=080c14&color=4a7fc1&line=4a7fc1&point=ffffff&area=true&hide_border=true&area_color=0c1a2e)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
 </div>
 
 ---
@@ -216,7 +151,6 @@ My long-term goal: use AI to make mental healthcare genuinely accessible. MindMa
 
 ### Recognition
 
-🥇 &nbsp; First Prize · Poster Presentation · 2025–26  
 🛠️ &nbsp; Organised **Hackquinox 2.0** - National Level Hackathon  
 💡 &nbsp; Participated in **Smart India Hackathon (SIH)**  
 📜 &nbsp; Applied Data Science - IBM &nbsp;·&nbsp; ML Foundations - Google &nbsp;·&nbsp; Generative AI - Google Cloud
