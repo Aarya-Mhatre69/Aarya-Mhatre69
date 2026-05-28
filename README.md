@@ -28,9 +28,6 @@ Third year. Computer Engineering, AI/ML track. FCRIT, Vashi.
 
 I build **AI-powered systems** and **full-stack applications** - the kind that solve real problems, not just pass demos. Most of my work lives somewhere between LLM pipelines, backend APIs, and interfaces people actually want to use.
 
-At college, I run things as **Secretary of AIDL** - the AI & Deep Learning Club. We organise workshops, technical events, and national-level hackathons. I take that seriously.
-
-When I'm away from the screen: gym, music that never stops, a camera, and occasionally doing something useful for someone else.
 
 ```
 📍 Mumbai, India  ·  🎯 Open to SWE & AI Engineering roles  ·  🎓 Graduating May 2027
