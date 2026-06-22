@@ -67,8 +67,6 @@ Research exposure at one of India's top science institutes. Worked on ML model d
 
 I believe in **shipping > perfecting**. Every repo here is something I built because I wanted it to exist - not to pad a portfolio.
 
-My long-term goal: use AI to make mental healthcare genuinely accessible. MindMate is the start of that. It's not finished. Neither am I.
-
 > *"The best way to predict the future is to build it."*
 
 &nbsp;&nbsp;&nbsp;&nbsp;🏋️‍♂️ &nbsp; Gym is where I think. Both require consistency over bursts.  
