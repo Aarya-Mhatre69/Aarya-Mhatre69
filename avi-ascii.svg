@@ -1,0 +1,68 @@
+<svg viewBox="0 0 372 345" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, Monaco, monospace">
+<rect width="372" height="345" fill="transparent" />
+
+        <style>
+          text { fill: #c9d1d9; font-size: 6.2px; }
+          .row-wipe {
+            animation: wipe 0.35s steps(30) forwards;
+          }
+          @keyframes wipe {
+            from { clip-path: inset(0 100% 0 0); }
+            to   { clip-path: inset(0 0 0 0); }
+          }
+        </style>
+        
+<g class="row-wipe" style="animation-delay:0.00s"><text x="0" y="6.5" xml:space="preserve">-s##sc**c`   .:+#%%s.                  ...`:`.````....                                              </text></g>
+<g class="row-wipe" style="animation-delay:0.05s"><text x="0" y="13.0" xml:space="preserve">:+###sccc=    :c#%#s-      ..```:---:-:==--::::--:-:```````:``.                                     </text></g>
+<g class="row-wipe" style="animation-delay:0.10s"><text x="0" y="19.5" xml:space="preserve">`-#%##ccc*.   -s%%ss*```..`:::::=+***ccscc+-:-==**+=*=:----==-::::-----::`.                         </text></g>
+<g class="row-wipe" style="animation-delay:0.15s"><text x="0" y="26.0" xml:space="preserve">.:*%%ssccc-   +#%%sc+::-:-=+*c+--=*ss#####s*===--+cssc+=+++*cccc**==++=--:``..                      </text></g>
+<g class="row-wipe" style="animation-delay:0.20s"><text x="0" y="32.6" xml:space="preserve"> .-#%#sc+c*  .*ss*+:-=++-=cscc+=:=ccss#ss%%##scc+-==***csscscccss#ccc*c++++-:::`...                 </text></g>
+<g class="row-wipe" style="animation-delay:0.25s"><text x="0" y="39.1" xml:space="preserve">  `*%#cc+==` `==-::=****==c*+++c*****csss##scc*++*+==+*ccccc*++++c##scccccc*+=+++++++===-:.         </text></g>
+<g class="row-wipe" style="animation-delay:0.30s"><text x="0" y="45.6" xml:space="preserve">.  -#%c+-==----::::*sc*++====**csss#sccscs+---:-+++==+*c++c##*++**c+*c+c*+====-==+++**ccc*:   .`..  </text></g>
+<g class="row-wipe" style="animation-delay:0.35s"><text x="0" y="52.1" xml:space="preserve">*` .*%#+=----+**+=:=+=----::-:``:-=*ccs#s+=+*+*cc*===***ccs#s#c*ssc*+++++-:::-=+=++++++*cc:. ..===` </text></g>
+<g class="row-wipe" style="animation-delay:0.40s"><text x="0" y="58.6" xml:space="preserve">sc=`-#s+*+*+-=*csc=-:=***cc*=-``:--====+*++++**cc*=++=:--=+c**s**csc*****+=-:-==+==+==+++=-. .`+c=. </text></g>
+<g class="row-wipe" style="animation-delay:0.45s"><text x="0" y="65.1" xml:space="preserve">cssc=ccc+++=-:``-+sc+***ssc*++++*sc=:*c*=-----==++cssc*+=+==++*cc*c**cccsc*+==*cccsc==**c*=:..=#*`  </text></g>
+<g class="row-wipe" style="animation-delay:0.50s"><text x="0" y="71.6" xml:space="preserve">:*cc*+sscc*--:-::+s**s*cc**cccs#s*+===---:-`--=*css##s%%#sc**ccccscccccsss##c+*cs**+++***c*==*#c`   </text></g>
+<g class="row-wipe" style="animation-delay:0.55s"><text x="0" y="78.1" xml:space="preserve">`-++=+sss*++**c*+sc*cc*++--+***=+=+****=`:-`=+*cc*ccssss%%########scssssccssc++***+=--==*cccss*`    </text></g>
+<g class="row-wipe" style="animation-delay:0.60s"><text x="0" y="84.6" xml:space="preserve">.-+*+*csscccccccs#ss#s**c==----`---=-+*==+=--=**==+++ccssscc*c##s##cs###scssc*++====-=+**ccss=.     </text></g>
+<g class="row-wipe" style="animation-delay:0.65s"><text x="0" y="91.1" xml:space="preserve">:-+**ccssssscc###ssscc*csc*cc*+==--=+=--=*cccc++=*cc**+*ssss*c##s####*c%%#s#s*=+=++=-=+****cc*-     </text></g>
+<g class="row-wipe" style="animation-delay:0.70s"><text x="0" y="97.7" xml:space="preserve">``=*csssss*cs#sssssssssssss##sscc**++=+**ccccc*****=-=+*s#ss###scs###**s%%%#sccss**c+**cccccsc*-.   </text></g>
+<g class="row-wipe" style="animation-delay:0.75s"><text x="0" y="104.2" xml:space="preserve"> .:+s%###ssc#ccs#s*s###%#####ss*****c*+*csc++**==**+*++*cc**sssssssscc+c##%#*c**c*++*sscssscssc=`   </text></g>
+<g class="row-wipe" style="animation-delay:0.80s"><text x="0" y="110.7" xml:space="preserve"> .`*##%%###sscccc**ccccc*cssssc*cc+*cc*+*c+*ccsc*csssc=---+cs##sc**c**css###c-==*+*++*+cccssss*-:.  </text></g>
+<g class="row-wipe" style="animation-delay:0.85s"><text x="0" y="117.2" xml:space="preserve">  .:*######scsc+c*ccs*++*s#ss#c**++**++csccsccscccsscc++**csc**+++*+cs#s###ss+=-*+***=++c+cssc*-`   </text></g>
+<g class="row-wipe" style="animation-delay:0.90s"><text x="0" y="123.7" xml:space="preserve">   `+###%####s#sssssscccc#%##sccc*cccccccc**+***c*c*cs###sss*+**+***c#ss###sscc**==**=+++*s###c=:.  </text></g>
+<g class="row-wipe" style="animation-delay:0.95s"><text x="0" y="130.2" xml:space="preserve">   .-c##%#s####%##ssss#ss%%#ss#ssssssss*c*ccssccsssccs###scc*csscsscsc*csssss#scc++++=*c*csssss+-`. </text></g>
+<g class="row-wipe" style="animation-delay:1.00s"><text x="0" y="136.7" xml:space="preserve">     -c#%###ss##%#########sss##sss*csc+*cc#%#ss###c****ccssscccccc****ccccc*###**c--=c++ccssscs*=`  </text></g>
+<g class="row-wipe" style="animation-delay:1.05s"><text x="0" y="143.2" xml:space="preserve">     .=c######ss#####%%#s**c***++=+**++==c%%sc###***+=-+*++*++++======++*+*csss**+=-+**ccscsss#c=`  </text></g>
+<g class="row-wipe" style="animation-delay:1.10s"><text x="0" y="149.7" xml:space="preserve">      :css#%##ssss####s*+=+*****c*sscc*+cs%%#sccc*++-::-=c+==--::----=****ccssc*c*+****sscs##sss=`  </text></g>
+<g class="row-wipe" style="animation-delay:1.15s"><text x="0" y="156.2" xml:space="preserve">   .-+++*s##ssc*+=++++++*c*+++++=+#sc*++++c%%s++*c=-`::`:=c*=-:::::--++*c###ssccssssssssscssc*cs+`  </text></g>
+<g class="row-wipe" style="animation-delay:1.20s"><text x="0" y="162.8" xml:space="preserve">  `++==--=csssc+==-===++=---:```.`=*=`::::-=cc++++=:`..```:=*+----===+*csscsscs#%%#####s##c+=+*s=`  </text></g>
+<g class="row-wipe" style="animation-delay:1.25s"><text x="0" y="169.3" xml:space="preserve">  -+=--:`:=*#sc+=====-::::::::::::-=*+=------:``::``.. ..``::----=----=++**cc*c#####sscssc+-=*cc:.  </text></g>
+<g class="row-wipe" style="animation-delay:1.30s"><text x="0" y="175.8" xml:space="preserve">  -+==-`.`:*ss*+====-::---=+++**ccc*cscc***++==-:`...  ....```::=***+*cccc*cc**#%##scc*csc-=+**=.   </text></g>
+<g class="row-wipe" style="animation-delay:1.35s"><text x="0" y="182.3" xml:space="preserve">  .=++====-*#c*++++=-==+++*csss*s#sc%#s-*cc****+=-:.  ..````::=+cssssss##%%#####c==+++*sc+==**-     </text></g>
+<g class="row-wipe" style="animation-delay:1.40s"><text x="0" y="188.8" xml:space="preserve">   -++=+-`:cscc**+=-=====+++*++****ccc*=+cc**=++==-:. `:-+******++++=--:-=+*cs#c===**cc=-===:.      </text></g>
+<g class="row-wipe" style="animation-delay:1.45s"><text x="0" y="195.3" xml:space="preserve">   `+*-=:.-#sscc*++======-----======+++***++===+====--=*s#ssc=+ss+ccc*+=-:`:=*c*=+++=:.             </text></g>
+<g class="row-wipe" style="animation-delay:1.50s"><text x="0" y="201.8" xml:space="preserve">   `***++=*ssssc*+==---:::---::```..```::-=====++==---=*s#sc*-=csss#c:-ss*=--=c+:.                  </text></g>
+<g class="row-wipe" style="animation-delay:1.55s"><text x="0" y="208.3" xml:space="preserve">   .*=++-=*ssccc*+=-:::````::---:::::::::::---==---:::-=css*+==--=++===*cc*=-=-.                    </text></g>
+<g class="row-wipe" style="animation-delay:1.60s"><text x="0" y="214.8" xml:space="preserve">    --=+===ssc**+=--:::```....::::::-::::::::---===-::-=*ss*+====---=====++==`                      </text></g>
+<g class="row-wipe" style="animation-delay:1.65s"><text x="0" y="221.3" xml:space="preserve">    .===++*csc*+==---::::::`..```:::```...`:=+*+++==-:-=*csc=----:-----======                       </text></g>
+<g class="row-wipe" style="animation-delay:1.70s"><text x="0" y="227.9" xml:space="preserve">      `----+sc*+=+--=--=:--:````..`....``:+sssc*c*==-::-+css+------------====                       </text></g>
+<g class="row-wipe" style="animation-delay:1.75s"><text x="0" y="234.4" xml:space="preserve">        .``+sc*+========----::::`....```:=sc*=-=+=-:`.`:-+csc-::::------==++-                       </text></g>
+<g class="row-wipe" style="animation-delay:1.80s"><text x="0" y="240.9" xml:space="preserve">           `scc+=============-=-:`````.`:+c+-:::==-``..`:=****=:::---===+++*`                       </text></g>
+<g class="row-wipe" style="animation-delay:1.85s"><text x="0" y="247.4" xml:space="preserve">            *cc*+==-====++====+=-::```..`-+*cc*++++---:-+**=-+c=:---===+***=                        </text></g>
+<g class="row-wipe" style="animation-delay:1.90s"><text x="0" y="253.9" xml:space="preserve">            :c**+=======++======--::````:---=+=---++++*cc*=++**-::-===++*c=                         </text></g>
+<g class="row-wipe" style="animation-delay:1.95s"><text x="0" y="260.4" xml:space="preserve">             =c+=================---=====++++****cc***cc*++==-:::-===++*c=                          </text></g>
+<g class="row-wipe" style="animation-delay:2.00s"><text x="0" y="266.9" xml:space="preserve">              =c+===============++*++***c*c*ccc**#sc*css***=-----===+*c*:                           </text></g>
+<g class="row-wipe" style="animation-delay:2.05s"><text x="0" y="273.4" xml:space="preserve">               *c*+===++======+***c*cccccccc***++*c*+*ccssccc*+====+*c+.                            </text></g>
+<g class="row-wipe" style="animation-delay:2.10s"><text x="0" y="279.9" xml:space="preserve">               :ssc++++++++====++++=+c###ssccccc***cc****c***cc+=++**:                              </text></g>
+<g class="row-wipe" style="animation-delay:2.15s"><text x="0" y="286.4" xml:space="preserve">               .ccsc**++++++=====--:::-=+=-::-=+++**ccs#scc*+**==+++-``                             </text></g>
+<g class="row-wipe" style="animation-delay:2.20s"><text x="0" y="293.0" xml:space="preserve">                +scssc**++++====-----:::--:::::=-:-==****+++=====*+**+c-`                           </text></g>
+<g class="row-wipe" style="animation-delay:2.25s"><text x="0" y="299.5" xml:space="preserve">                -sccssscc***++===--------==+++===++++++======-=*s#ssss+::`                          </text></g>
+<g class="row-wipe" style="animation-delay:2.30s"><text x="0" y="306.0" xml:space="preserve">         ...``:`:cccsscsssc*c*+=-----:::---==+++==+++==--==-=+s###%#c-::```                         </text></g>
+<g class="row-wipe" style="animation-delay:2.35s"><text x="0" y="312.5" xml:space="preserve">     .`::-----:::+sccscccssss*+=-::--:::-----==--------====+c###%#*=::````:`                        </text></g>
+<g class="row-wipe" style="animation-delay:2.40s"><text x="0" y="319.0" xml:space="preserve">    `-=------::::=ccccscc*csssc+=-==--=--==========---==+*cs###s+:`::`````:=-`.                     </text></g>
+<g class="row-wipe" style="animation-delay:2.45s"><text x="0" y="325.5" xml:space="preserve">...`:-+-:-------=+cccccscc***cssc**+====-======+++++++*cccs#%s=`````.``:`--=+++==-:`.               </text></g>
+<g class="row-wipe" style="animation-delay:2.50s"><text x="0" y="332.0" xml:space="preserve">:::---==-==---====*c**cccccc***cccsc*++========+****ccssssssc-````.````:--=+-::-==++=-:`.           </text></g>
+<g class="row-wipe" style="animation-delay:2.55s"><text x="0" y="338.5" xml:space="preserve">::::``-===---=+++=cc*++**cccc***+++**ccc****+***ccssssssc*-:-....`..``:--=-```::-:-====--:`.        </text></g>
+<g class="row-wipe" style="animation-delay:2.60s"><text x="0" y="345.0" xml:space="preserve">:::`:---=--==+++++ccc++++**************ccsssssssssssscc+:..:.......`:-=-:``..``:------===--::`.     </text></g>
+</svg>
