@@ -1,0 +1,28 @@
+<svg viewBox="0 0 490 228" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, Monaco, monospace">
+
+            <style>
+              .line {
+                opacity: 0;
+                transform: translateX(-6px);
+                animation: fadeSlide 0.4s ease-out forwards;
+              }
+              @keyframes fadeSlide {
+                to { opacity: 1; transform: translateX(0); }
+              }
+            </style>
+            
+<rect x="0" y="0" width="490" height="228" rx="8" ry="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+<rect x="0" y="0" width="490" height="34" rx="8" ry="8" fill="#161b22" />
+<rect x="0" y="26" width="490" height="8" fill="#161b22" />
+<circle cx="20" cy="17.0" r="5" fill="#ff5f56" />
+<circle cx="38" cy="17.0" r="5" fill="#ffbd2e" />
+<circle cx="56" cy="17.0" r="5" fill="#27c93f" />
+<text x="245.0" y="21.0" text-anchor="middle" fill="#8b949e" font-size="12">avi@github: ~/whoami</text>
+<text x="20" y="42" fill="#39d353" font-size="13">aarya@github &gt; neofetch</text>
+<text class="line" x="20" y="64" style="animation-delay:0.00s" font-size="13"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan fill="#8b949e">  SWE Intern @ InfinityPool Finnotech</tspan></text>
+<text class="line" x="20" y="90" style="animation-delay:0.09s" font-size="13"><tspan fill="#69f0a0" font-weight="bold">Prev</tspan><tspan fill="#8b949e">  ML Intern @ IISER Mohali</tspan></text>
+<text class="line" x="20" y="116" style="animation-delay:0.18s" font-size="13"><tspan fill="#26a641" font-weight="bold">Track</tspan><tspan fill="#8b949e">  B.Tech Computer Engineering, AI/ML Honours - FCRIT</tspan></text>
+<text class="line" x="20" y="142" style="animation-delay:0.27s" font-size="13"><tspan fill="#006d32" font-weight="bold">Stack</tspan><tspan fill="#8b949e">  Python / TS / React / .NET / SQL Server / PyTorch</tspan></text>
+<text class="line" x="20" y="168" style="animation-delay:0.36s" font-size="13"><tspan fill="#0e4429" font-weight="bold">Built</tspan><tspan fill="#8b949e">  Shankh (WebAR) / MGL PNG Recommender / CNG Eligibility</tspan></text>
+<text class="line" x="20" y="194" style="animation-delay:0.45s" font-size="13"><tspan fill="#39d353" font-weight="bold">Focus</tspan><tspan fill="#8b949e">  Open to SWE &amp; AI Engineering roles - grad May 2027</tspan></text>
+</svg>
