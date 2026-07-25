@@ -1,0 +1,56 @@
+<svg viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dotgrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#173252" />
+    </pattern>
+    <linearGradient id="edgefade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0B1420" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0B1420" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="14" fill="#0B1420"/>
+  <rect width="1000" height="220" rx="14" fill="url(#dotgrid)"/>
+  <rect width="1000" height="220" rx="14" fill="none" stroke="#1E3A5C" stroke-width="1.5"/>
+
+  <!-- corner trace ornament, top-right -->
+  <path d="M 940 24 H 976 V 60" fill="none" stroke="#2C4C70" stroke-width="1.5"/>
+  <circle cx="940" cy="24" r="3" fill="#5ED0EA"/>
+  <circle cx="976" cy="60" r="3" fill="#5ED0EA"/>
+
+  <!-- corner trace ornament, bottom-left -->
+  <path d="M 24 196 H 60 V 168" fill="none" stroke="#2C4C70" stroke-width="1.5"/>
+  <circle cx="24" cy="196" r="3" fill="#5ED0EA"/>
+
+  <!-- eyebrow -->
+  <text x="42" y="46" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="3" fill="#7C93AC">SYSTEM PROFILE // REV. 2026.07</text>
+
+  <!-- name -->
+  <text x="40" y="118" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="62" fill="#E7EDF3">AARYA MHATRE</text>
+
+  <!-- role line -->
+  <text x="42" y="152" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#9FB3C8">Backend &amp; Agentic AI Engineer &#8212; Computer Engineering, FCRIT</text>
+
+  <!-- trace underline with vias -->
+  <line x1="42" y1="170" x2="560" y2="170" stroke="#5ED0EA" stroke-width="2"/>
+  <circle cx="42" cy="170" r="3.5" fill="#5ED0EA"/>
+  <circle cx="560" cy="170" r="3.5" fill="#5ED0EA"/>
+
+  <!-- status chip -->
+  <rect x="748" y="36" width="212" height="34" rx="6" fill="#101E2E" stroke="#1E3A5C"/>
+  <circle cx="768" cy="53" r="4" fill="#6EE7A8"/>
+  <text x="782" y="58" font-family="SFMono-Regular, Consolas, monospace" font-size="12.5" letter-spacing="1" fill="#C9D8E5">STATUS: SHIPPING</text>
+
+  <!-- location chip -->
+  <rect x="748" y="78" width="212" height="34" rx="6" fill="#101E2E" stroke="#1E3A5C"/>
+  <circle cx="768" cy="95" r="4" fill="#F2A65A"/>
+  <text x="782" y="100" font-family="SFMono-Regular, Consolas, monospace" font-size="12.5" letter-spacing="1" fill="#C9D8E5">BASE: MAHARASHTRA, IN</text>
+
+  <!-- cgpa chip -->
+  <rect x="748" y="120" width="212" height="34" rx="6" fill="#101E2E" stroke="#1E3A5C"/>
+  <circle cx="768" cy="137" r="4" fill="#5ED0EA"/>
+  <text x="782" y="142" font-family="SFMono-Regular, Consolas, monospace" font-size="12.5" letter-spacing="1" fill="#C9D8E5">CGPA: 9.14 / 10</text>
+
+  <!-- bottom hint text -->
+  <text x="42" y="196" font-family="SFMono-Regular, Consolas, monospace" font-size="12" fill="#4C6079">scroll for schematic &#8595;</text>
+</svg>
