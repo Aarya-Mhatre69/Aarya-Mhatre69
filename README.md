@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner.svg" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 </div>
 
 <br/>
@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td width="36%" valign="top">
-<img src="./assets/topo.svg" width="100%"/>
+<img src="./topo.svg" width="100%"/>
 </td>
 <td width="64%" valign="top">
 
@@ -131,7 +131,7 @@ wanted it to, not to pad a portfolio.
 
 <br/>
 
-<img src="./assets/offduty.svg" width="100%"/>
+<img src="./offduty.svg" width="100%"/>
 
 <br/>
 
